@@ -61,4 +61,4 @@ Each GraalVM component is licensed:
 * [Sulong](/sulong/) is licensed under [3-clause BSD](sulong/LICENSE).
 * [GraalWasm](/wasm/) is licensed under the [Universal Permissive License](wasm/LICENSE).
 * [VM](/vm/) is licensed under the [GPL 2 with Classpath exception](vm/LICENSE_GRAALVM_CE).
-* [VS Code](/vscode/) extensions are distributed under the [UPL 1.0 license](/vscode/graalvm/LICENSE.txt).
+* [VS Code](https://github.com/graalvm/vscode-extensions) extensions are distributed under the [UPL 1.0 license](https://github.com/graalvm/vscode-extensions/blob/master/LICENSE).
